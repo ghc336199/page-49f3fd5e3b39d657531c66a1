@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "944f6a2193c4f6041fbb9830",
+  "owner": "ghc336199",
+  "repo": "page-49f3fd5e3b39d657531c66a1",
+  "title": "锐速三角",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "49f3fd5e3b39d657531c66a1",
+      "a": "锐速三角",
+      "b": "",
+      "entity": "锐速三角",
+      "brand": "锐速三角",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d0d43610e77c1f813d1fced3602844cb98efb2ac42070de4aedb7a6cfc974e1d",
+      "content": {
+        "keyword1": "锐速三角",
+        "keyword2": "",
+        "primary_entity": "锐速三角",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "锐速三角提供稳定高效的网络加速方案，含基础版、旗舰版、团队版三档套餐，覆盖个人影音与团队办公需求。",
+          "AI_DESCRIPTION": "锐速三角提供稳定高效的网络加速方案，含基础版、旗舰版、团队版三档套餐，覆盖个人影音与团队办公需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#2b1d16;--bg2:#3a2a20;--ink:#f5efe7;--mute:#bda89a;--mint:#6ee0b0;--card:#f7f3ec;--cardink:#2b1d16}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.7;font-size:15px}\na{color:var(--mint);text-decoration:none}\n.wrap{max-width:1000px;margin:0 auto;padding:0 28px}\n.hero{min-height:86vh;display:grid;grid-template-columns: 1fr;align-items:end;padding:120px 0 56px}\n.hero .narrow{max-width:420px}\n.brand-mark{font-size:14px;letter-spacing:0.4em;color:var(--mute);text-transform:uppercase;margin-bottom:18px}\nh1{font-size:clamp(40px,7vw,72px);font-weight:800;letter-spacing:-0.03em;line-height:1.1}\nh1 .dot{color:var(--mint)}\n.lede{margin-top:22px;color:var(--mute);font-size:16px;max-width:360px}\n.anchors{margin-top:30px;display:flex;flex-wrap:wrap;gap:10px 14px}\n.anchors a{border:1px solid rgba(110,224,176,0.4);color:var(--ink);padding:7px 14px;border-radius:999px;font-size:13px}\n.anchors a:hover{background:var(--mint);color:var(--bg);border-color:var(--mint)}\nsection{padding:72px 0;border-top:1px solid rgba(245,239,231,0.08)}\nh2{font-size:clamp(26px,4vw,36px);font-weight:700;letter-spacing:-0.02em;margin-bottom:10px}\n.section-tag{color:var(--mint);font-size:13px;letter-spacing:0.2em;text-transform:uppercase;margin-bottom:14px;display:block}\n.section-intro{color:var(--mute);max-width:620px;margin-bottom:36px}\n.plans{display:flex;flex-direction:column;gap:24px}\n.plan{background:var(--card);color:var(--cardink);border-radius:22px;padding:30px 32px;box-shadow:0 20px 50px rgba(0,0,0,0.35);display:flex;flex-direction:column}\n.plan.featured{outline:2px solid var(--mint);outline-offset:3px}\n.plan-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:18px}\n.plan-name{font-size:24px;font-weight:800}\n.plan-price{font-size:22px;font-weight:700;color:#3a2a20}\n.plan-annual{font-size:13px;color:#6b5648;margin-top:4px}\n.plan-features{list-style:none;display:flex;flex-direction:column;gap:10px;margin:10px 0 20px}\n.plan-features li{padding-left:24px;position:relative;font-size:15px}\n.plan-features li::before{content:\"\";position:absolute;left:0;top:9px;width:10px;height:10px;border-radius:50%;background:var(--mint)}\n.plan-badge{align-self:flex-start;font-size:12px;background:var(--mint);color:var(--bg);padding:4px 10px;border-radius:999px;font-weight:700;margin-bottom:10px}\n.plan-cta{align-self:flex-start;border:1px solid var(--cardink);padding:10px 22px;border-radius:999px;color:var(--cardink);font-weight:600;font-size:14px}\n.features-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:22px}\n.feature-card{background:var(--bg2);border-radius:20px;padding:26px;box-shadow:0 14px 36px rgba(0,0,0,0.25)}\n.feature-card h3{font-size:18px;margin-bottom:10px;color:var(--mint)}\n.feature-card p{color:var(--mute);font-size:14px}\n.faq{display:flex;flex-direction:column;gap:14px}\ndetails{background:var(--bg2);border-radius:16px;padding:20px 24px;box-shadow:0 10px 28px rgba(0,0,0,0.2)}\nsummary{cursor:pointer;font-weight:600;font-size:16px;list-style:none}\nsummary::-webkit-details-marker{display:none}\ndetails[open] summary{color:var(--mint);margin-bottom:10px}\n.answer{color:var(--mute);font-size:14px}\n.clients{color:var(--mute);font-size:14px;max-width:620px}\n.footer{padding:48px 0 64px;border-top:1px solid rgba(245,239,231,0.08);color:var(--mute);font-size:13px}\n@media (min-width:768px){\n  .plan{flex-direction:row;align-items:center;justify-content:space-between;gap:24px}\n  .plan-left{flex:1}\n  .plan-right{flex:1.2;display:flex;flex-direction:column;align-items:flex-start}\n}\n</style><div class=\"wrap\">\n\n<header class=\"hero\">\n  <div class=\"narrow\">\n    <div class=\"brand-mark\">锐速三角 / RUISU TRIANGLE</div>\n    <h1>锐速三角 · 三条边<br>构成一个<span class=\"dot\">稳</span></h1>\n    <p class=\"lede\">速度、稳定、覆盖。锐速三角把三者钉在同一个结构里。不承诺全能，只把该稳的环节做实。</p>\n    <nav class=\"anchors\" aria-label=\"页面导航\">\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#features\">特性</a>\n      <a href=\"#faq\">常见问题</a>\n      <a href=\"#clients\">客户端</a>\n    </nav>\n  </div>\n</header>\n\n<main>\n\n<section id=\"plans\">\n  <span class=\"section-tag\">02 / 套餐</span>\n  <h2>三档，按用量分层</h2>\n  <p class=\"section-intro\">从单人观影到小团队办公，选一个够用的。不做花式打包，价格写在明面上。</p>\n\n  <div class=\"plans\">\n\n    <article class=\"plan\">\n      <div class=\"plan-left\">\n        <div class=\"plan-name\">基础版</div>\n        <div class=\"plan-price\">¥15/月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n      </div>\n      <div class=\"plan-right\">\n        <ul class=\"plan-features\">\n          <li>每月 100GB 流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>基础流媒体线路</li>\n          <li>普通节点池接入</li>\n        </ul>\n        <a href=\"#\" class=\"plan-cta\">选择基础版</a>\n      </div>\n    </article>\n\n    <article class=\"plan featured\">\n      <div class=\"plan-left\">\n        <div class=\"plan-badge\">推荐</div>\n        <div class=\"plan-name\">旗舰版</div>\n        <div class=\"plan-price\">¥35/月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n      </div>\n      <div class=\"plan-right\">\n        <ul class=\"plan-features\">\n          <li>每月 300GB 流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体线路</li>\n          <li>IPLC 专线，游戏延迟优化</li>\n          <li>7×24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"plan-cta\">选择旗舰版</a>\n      </div>\n    </article>\n\n    <article class=\"plan\">\n      <div class=\"plan-left\">\n        <div class=\"plan-name\">团队版</div>\n        <div class=\"plan-price\">¥85/月</div>\n        <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n      </div>\n      <div class=\"plan-right\">\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"plan-cta\">选择团队版</a>\n      </div>\n    </article>\n\n  </div>\n</section>\n\n<section id=\"features\">\n  <span class=\"section-tag\">03 / 特性</span>\n  <h2>不做全能，做扎实</h2>\n  <p class=\"section-intro\">把三件事做明白，胜过列十项噱头。</p>\n\n  <div class=\"features-grid\">\n    <div class=\"feature-card\">\n      <h3>流量计净</h3>\n      <p>套餐内流量按实际使用计算，不计握手与信令开销，账单清晰可对账。</p>\n    </div>\n    <div class=\"feature-card\">\n      <h3>多端并行</h3>\n      <p>同一账号可挂多设备，依套餐档位限制并发数。切换设备无需退出。</p>\n    </div>\n    <div class=\"feature-card\">\n      <h3>线路分层</h3>\n      <p>普通节点池覆盖日常访问；旗舰及团队版引入专线与定制路由，处理低延迟场景。</p>\n    </div>\n    <div class=\"feature-card\">\n      <h3>支持响应</h3>\n      <p>工单为核心通道。旗舰及以上优先处理，团队版配客户经理对接。</p>\n    </div>\n    <div class=\"feature-card\">\n      <h3>隐私边界</h3>\n      <p>不记录访问内容，仅保留连接所需元数据，超期自动清理。</p>\n    </div>\n    <div class=\"feature-card\">\n      <h3>透明定价</h3>\n      <p>价格、流量、设备数写明在页面上。不设隐藏档位，不二次加价。</p>\n    </div>\n  </div>\n</section>\n\n<section id=\"clients\">\n  <span class=\"section-tag\">04 / 客户端</span>\n  <h2>接入方式</h2>\n  <p class=\"clients\">\n    锐速三角采用通用代理协议接入，支持主流客户端配置。用户可使用兼容协议的第三方工具自行填入节点信息完成连接，平台不强制安装专属软件。具体协议参数请于账户后台查看，并按所用客户端说明导入。\n  </p>\n</section>\n\n<section id=\"faq\">\n  <span class=\"section-tag\">05 / 常见问题</span>\n  <h2>该问的，先答清</h2>\n  <p class=\"section-intro\">以下是开通前常被问到的问题。点击展开查看答案。</p>\n\n  <div class=\"faq\">\n\n    <details>\n      <summary>套餐之间能否中途升级？</summary>\n      <p class=\"answer\">可以。升级按剩余周期补差价计算，流量与设备数即时按新档位生效。降级需在下一计费周期生效。</p>\n    </details>\n\n    <details>\n      <summary>流量没用完能否结转？</summary>\n      <p class=\"answer\">不支持结转。每月流量按自然月清零，建议按实际用量选档，避免超额或浪费。</p>\n    </details>\n\n    <details>\n      <summary>支持哪些设备和系统？</summary>\n      <p class=\"answer\">采用通用协议，兼容 Windows、macOS、Linux、iOS、Android 平台的常见第三方代理客户端。具体配置方法以客户端说明为准。</p>\n    </details>\n\n    <details>\n      <summary>旗舰版与基础版的核心差异是什么？</summary>\n      <p class=\"answer\">除流量与设备数提升外，旗舰版引入 IPLC 专线与原生流媒体线路，适合对延迟与解锁稳定性有更高要求的用户。</p>\n    </details>\n\n    <details>\n      <summary>团队版是否提供发票？</summary>\n      <p class=\"answer\">团队版面向小团队与企业用户，支持开具服务费发票。开通后联系客户经理提交开票信息。</p>\n    </details>\n\n    <details>\n      <summary>试用或退款政策如何？</summary>\n      <p class=\"answer\">当前未提供免费试用。关于退款，请以购买时页公示政策为准；无特殊说明情况下，已使用周期不予退款。</p>\n    </details>\n\n  </div>\n</section>\n\n</main>\n\n<footer class=\"footer\">\n  <p>锐速三角 · 页面内容为服务介绍，实际权益以购买时公示为准。</p>\n</footer>\n\n</div>",
+          "hash": "aafe7ca6a2502a68186a363860160fd5cea9050f505d1ae9d73debb758f15ab4",
+          "seo": {
+            "title": "锐速三角 — 网络加速服务",
+            "keywords": "锐速三角,网络加速,专线,流媒体解锁,代理服务",
+            "description": "锐速三角提供稳定高效的网络加速方案，含基础版、旗舰版、团队版三档套餐，覆盖个人影音与团队办公需求。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "2438",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "txbjusd.cn",
+    "host": "p-127f7ddf5e.txbjusd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "60cc985fbb33e11a60d59670d49d7903f99c779b6b531649e55568c5f6c562d3",
+    "sitemap.xml": "e8a59fd16ea1175241006636fad97e5f26b0fdf4d5e49bd8de736f6e60a92dc7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0a05c9413667087ed07b2a4709ddfb7057ae00b9a4b3d9ad51c9238083ca7dfc",
+    "robots.txt": "72b5026436a6e9b8eba574ebf76d117f2ec92cc5fccc31526b04538a2cf145f9",
+    "6f7bc75606546a7cc735e7cc4a04e5d5.txt": "b06464d56eb1da49d89b66b3cdf38f9d274014c5ba8e635c3e6f5419c753790c"
+  },
+  "revision": "08642856f72f49a4e075c057804b4a02964e08efe998df8ac72efc100333190a"
+}
